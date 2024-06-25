@@ -1,0 +1,15 @@
+L,Lim Xin Yo,19,018-7773264,TBS,5,Yes
+L,Joanne Arumugam,67,017-83741102,Stesen Kuala Terengganu,3,No
+I,Siti Sarah,26,011-2536648,Pulau Kapas,3,Yes
+I,Mohd Kidam,12,013-2849921,Pulau Tioman,1,No
+L,Mohd Syahmi,30,012-7589654,Terminal Melaka Sentral,6,No
+I,Nur Dahlia,25,011-2546397,Pulau Perhentian,2,No
+I,Christine,32,013-2469785,Pulau Kapas,2,No
+L,Alex Wang,16,014-7832467,Terminal Melaka Sentral,1,Yes
+L,Sudirman,65,013-7321632,TBS,2,No
+I,Benjamin,22,014-9872315,Pulau Tioman,5,Yes
+L,Lala,19,019-2463759,Kuala Perlis bus Terminal,3,Yes
+L,Muhammad Yusri Hasan,22,017-6532647,Terminal Melaka Sentral,4,No
+I,Musa,14,011-974235,Pulau Kapas,6,No
+I,Syafiqah,33,013-9324578,Pulau Perhentian,7,Yes
+I,Mei Ling,24,015-7862145,Pulau Kapas,4,No
